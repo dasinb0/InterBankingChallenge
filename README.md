@@ -10,6 +10,7 @@ Este proyecto consiste en una API desarrollada en **NestJS** (standalone, sin Do
 - No se implementó autenticación ni paginación para simplificar el challenge.
 - El endpoint de transferencias requiere que la empresa exista previamente.
 - El archivo .env es solo ilustrativo, ya que no se usa base de datos real.
+- Recordar antes de iniciar el proyecto hacer "npm i" (install) para las dependencias.
 
 ---
 
